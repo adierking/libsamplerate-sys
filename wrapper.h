@@ -1,1 +1,1 @@
-#include "libsamplerate/src/samplerate.h"
+#include "libsamplerate/include/samplerate.h"
